@@ -1,0 +1,47 @@
+[
+  {
+    "name": "Mellor Building",
+    "image": "mellor_building.jpeg",
+    "description": "Our Mellor building houses out Digital Killn - bespoke labs and a large, open plan social space on the top floor. This space is extensively equipped with the latest learning technology and practical furniture.",
+    "accessibilityLink": "https://www.accessable.co.uk/staffordshire-university/stoke-on-trent-campus/access-guides/the-mellor-building",
+    "lifts": {
+      "name": "Lifts",
+      "image": "mellor_building/lifts.jpg"
+    },
+    "restrooms": {
+      "name": "Restrooms",
+      "image": "mellor_building/restrooms.jpg"
+    },
+    "entrances": {
+      "name": "Entrances",
+      "image": "mellor_building/entrances.jpg"
+    }
+  },
+  {
+    "name": "Cadman Building",
+    "image": "cadman_building.jpeg",
+    "description": "Our Cadman building is home to the Thompson Library, the Student Enabling Centre and International Student Support.",
+    "accessibilityLink": "https://www.accessable.co.uk/staffordshire-university/stoke-on-trent-campus/access-guides/the-cadman-building",
+    "lifts": [],
+    "restrooms": [],
+    "entrances": []
+  },
+  {
+    "name": "Cadman Studios Building",
+    "image": "cadman_studios_building.jpeg",
+    "description": "Our £11.5 million Cadman Studios are home to state-of-the-art TV and Music Technology studios.",
+    "accessibilityLink": "https://www.accessable.co.uk/staffordshire-university/stoke-on-trent-campus/access-guides/cadman-studios",
+    "lifts": [],
+    "restrooms": [],
+    "entrances": []
+  },
+  {
+    "name": "Catalyst Building",
+    "image": "catalyst_building.jpeg",
+    "description": "Introducing The Catalyst. An 8,000 sqm, four storey building, bringing together the delivery of apprenticeships and skills, to meet employer demand, in flexible, high-quality, digitally enabled space.",
+    "accessibilityLink": "https://www.accessable.co.uk/staffordshire-university/stoke-on-trent-campus/access-guides/the-catalyst",
+    "lifts": [],
+    "restrooms": [],
+    "entrances": []
+  }
+]
